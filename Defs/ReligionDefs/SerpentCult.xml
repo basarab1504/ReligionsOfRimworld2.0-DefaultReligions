@@ -3,8 +3,7 @@
 	<ReligionsOfRimworld.ReligionDef>
 		<defName>SerpentCult</defName>
 		<label>Serpent Cult</label>
-		<description>Ancient monoteistic religion's. The god is almighty Maker, creator of all being in the world. History says, Maker created all from nothing,
-made energy from himself, made planets from his bones, his breath burned suns, his tears filled up seas and oceans. And from his flesh he made all the creatures alive.</description>
+		<description>The cult of the followers of the Serpent has long been a bloodthirsty sacrifice and absolutely not caring for the value of human life.</description>
 		<settingsDefs>
 			<li>RoR_NeedPietySettings</li>
 			<li>SC_JoiningCriteriaSettings</li>

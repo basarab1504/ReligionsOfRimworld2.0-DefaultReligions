@@ -3,8 +3,7 @@
 	<ReligionsOfRimworld.ReligionDef>
 		<defName>MothersCoven</defName>
 		<label>Mother's Coven</label>
-		<description>Ancient monoteistic religion's. The god is almighty Maker, creator of all being in the world. History says, Maker created all from nothing,
-made energy from himself, made planets from his bones, his breath burned suns, his tears filled up seas and oceans. And from his flesh he made all the creatures alive.</description>
+		<description>The followers of this religion believe in Mother, who gave them shelter and food. They say that the mother appeared before her admirers in the guise of a deer, therefore it is considered sacred among the followers of this religion.</description>
 		<settingsDefs>
 			<li>RoR_NeedPietySettings</li>
 			<li>MCN_JoiningCriteriaSettings</li>
