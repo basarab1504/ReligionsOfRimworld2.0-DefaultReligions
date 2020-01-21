@@ -3,7 +3,7 @@
 	<ReligionsOfRimworld.ReligionDef>
 		<defName>MothersCoven</defName>
 		<label>Mother's Coven</label>
-		<description>The followers of this religion believe in Mother, who gave them shelter and food. They say that the mother appeared before her admirers in the guise of a deer, therefore it is considered sacred among the followers of this religion.</description>
+		<description>The followers of this religion believe in the Mother, who gave them shelter and food. They say that the Mother appeared before her admirers in the guise of a deer, therefore it is considered sacred among the followers of this religion.</description>
 		<settingsDefs>
 			<li>RoR_NeedPietySettings</li>
 			<li>MCN_JoiningCriteriaSettings</li>
@@ -180,7 +180,6 @@
 		<settings Class="ReligionsOfRimworld.ReligionSettings_AllowedBuildings">	
 		<allowedBuildings>
 			<li>Totem</li>
-			<li>WorshipSpot</li>
 		</allowedBuildings>	
 		</settings>
 	</ReligionsOfRimworld.ReligionSettingsDef>

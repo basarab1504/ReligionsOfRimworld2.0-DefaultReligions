@@ -3,8 +3,7 @@
 	<ReligionsOfRimworld.ReligionDef>
 		<defName>MakerChurch</defName>
 		<label>Maker Church</label>
-		<description>Ancient monoteistic religion's. The god is almighty Maker, creator of all being in the world. History says, Maker created all from nothing,
-made energy from himself, made planets from his bones, his breath burned suns, his tears filled up seas and oceans. And from his flesh he made all the creatures alive.</description>
+		<description>Ancient monotheistic religion. The god is almighty Maker, creator of all beings in the world. History says, Maker created all from nothing, made energy from himself, made planets from his bones, his breath burned suns, his tears filled up seas and oceans. And from his flesh he made all the creatures alive.</description>
 		<settingsDefs>
 			<li>RoR_NeedPietySettings</li>
 			<li>MC_JoiningCriteriaSettings</li>

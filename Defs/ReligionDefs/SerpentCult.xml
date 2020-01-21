@@ -3,7 +3,7 @@
 	<ReligionsOfRimworld.ReligionDef>
 		<defName>SerpentCult</defName>
 		<label>Serpent Cult</label>
-		<description>The cult of the followers of the Serpent has long been a bloodthirsty sacrifice and absolutely not caring for the value of human life.</description>
+		<description>The cult of the Serpent have long been bloodthirsty for sacrifice and care not for the value of human life.</description>
 		<settingsDefs>
 			<li>RoR_NeedPietySettings</li>
 			<li>SC_JoiningCriteriaSettings</li>
