@@ -62,6 +62,12 @@ made energy from himself, made planets from his bones, his breath burned suns, h
 		<defName>MC_JoiningCriteriaSettings</defName>
 		<settings Class="ReligionsOfRimworld.ReligionSettings_JoiningCriteria">
 			<criteria>
+				<li Class="ReligionsOfRimworld.JoiningCriteria_Race">
+					<criteria>
+						<li>Human</li>
+					</criteria>
+					<importance>Important</importance>
+				</li>
 				<li Class="ReligionsOfRimworld.JoiningCriteria_Trait">
 					<criteria>Kind</criteria>
 				</li>

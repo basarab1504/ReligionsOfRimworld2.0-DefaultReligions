@@ -24,6 +24,12 @@
 		<defName>MCN_JoiningCriteriaSettings</defName>
 		<settings Class="ReligionsOfRimworld.ReligionSettings_JoiningCriteria">
 			<criteria>
+				<li Class="ReligionsOfRimworld.JoiningCriteria_Race">
+					<criteria>
+						<li>Human</li>
+					</criteria>
+					<importance>Important</importance>
+				</li>				
 				<li Class="ReligionsOfRimworld.JoiningCriteria_Trait">
 					<criteria>Nudist</criteria>
 					<importance>Important</importance>
