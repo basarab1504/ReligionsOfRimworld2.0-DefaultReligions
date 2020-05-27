@@ -186,7 +186,6 @@
 		<settings Class="ReligionsOfRimworld.ReligionSettings_AllowedBuildings">	
 		<allowedBuildings>
 			<li>Totem</li>
-			<li>WorshipSpot</li>
 		</allowedBuildings>	
 		</settings>
 	</ReligionsOfRimworld.ReligionSettingsDef>
